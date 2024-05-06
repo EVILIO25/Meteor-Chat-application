@@ -1,7 +1,3 @@
-Certainly! Below is a similarly styled README for your Meteor Chat Application, formatted to match the concise and direct approach of the Text Sentiment Analysis project example you provided.
-
----
-
 # Meteor Chat Application
 
 ## Introduction
